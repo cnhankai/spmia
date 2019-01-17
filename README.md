@@ -1,2 +1,2 @@
 # spmia
-Spring Microservices In Action Learnning and Demo.
+Spring Microservices In Action Learnning Note.
